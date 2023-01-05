@@ -57,7 +57,7 @@ a {
   gap: 5rem;
 }
 
-@media (min-width:250px) {
+
  .nav {
   display: flex;
   justify-content: space-between;
@@ -253,7 +253,6 @@ a {
    gap: 2rem;
  }
  
-}
 
 
 /****************** desktop css ***********************/
