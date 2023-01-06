@@ -9,7 +9,7 @@ function Today() {
       <h2>Today.</h2>
 
       <p className='text-para'> 
-      I’m currently looking for an internship everywhere in the world. <br />
+      I’m currently open for a job anywhere in the world. <br />
     You can get in touch with me on my e-mail and phone at any time. In case you have any questions or just want to say hi! </p>
 
     <div className='socials'>
