@@ -12,7 +12,7 @@ function Projects() {
 
 
 <div className='project-wrapper'>
-      <a href='https://hamsterwars-c1yj.onrender.com/' className='project'>
+      <a href='https://github.com/tyl26/Hamsterwars' className='project'>
       <img src={Hamters} alt="hamster-ptoject" />
       </a>
       <a href='https://github.com/tyl26/Hangman-' className='project'>
